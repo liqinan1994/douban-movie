@@ -1,5 +1,5 @@
 # 移动端的豆瓣电影排行榜
-![](./js/1522467101.png)
+![](https://liqinan1994.github.io/douban-movie/src/1522467101.png)
 
  请使用*手机浏览器扫一扫 *或 电脑开启*device mode*浏览
 
