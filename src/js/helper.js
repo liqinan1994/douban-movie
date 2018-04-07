@@ -19,6 +19,7 @@ define(['jquery'],function($){
 	 					    </a>
 	 					</div>`
 		 		var $node = $(tpl)
+		 		$node.find('a').attr('href',movie.alt)
 		 		$node.find('.cover img').attr('src',movie.images.medium)
 		 		$node.find('.detail h2').text(movie.title)
 		 		$node.find('.detail .score').text(movie.rating.average)
